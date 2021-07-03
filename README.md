@@ -19,8 +19,8 @@ This React Native Firebase starter contains a few key features that all apps bac
 If you are using Expo Cli, clone the repo and run "expo start" in the root folder of the project:
 
 ```
-git clone https://github.com/instamobile/react-native-firebase.git
-cd react-native-firebase
+git clone https://github.com/Wishwa-code/Saviya-React-Native_Firebase.git
+cd Saviya-React-Native_Firebase
 expo start
 ```
 
@@ -29,8 +29,8 @@ expo start
 If you prefer using React Native CLI, you'll need to eject from Expo first:
 
 ```
-git clone https://github.com/instamobile/react-native-firebase.git
-cd react-native-firebase
+git clone https://github.com/Wishwa-code/Saviya-React-Native_Firebase.git
+cd Saviya-React-Native_Firebase
 expo eject
 npm install
 react-native run-android // react-native run-ios
